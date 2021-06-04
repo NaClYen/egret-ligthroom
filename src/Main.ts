@@ -248,7 +248,9 @@ class Main extends eui.UILayer {
     async shaderTest(target: egret.DisplayObject) {
         // this.vignettingFilterTest(target);
 
-        SaturationFilterDebug.link(new SaturationFilter(), target);
+        // SaturationFilterDebug.link(new SaturationFilter(), target);
+
+        HueFilterDebug.link(new HueFilter(), target);
     }
     //#endregion
 }
