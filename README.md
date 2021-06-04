@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/10209536/120627972-c4c02f80-c496-11eb-8ea7-7be5a77443b9.png)
 - [SaturationFilter](./src/filters/saturation/SaturationFilter.ts) - [飽和度(Saturation)濾鏡](https://zh.wikipedia.org/wiki/%E8%89%B2%E5%BA%A6_(%E8%89%B2%E5%BD%A9%E5%AD%A6))
 ![image](https://user-images.githubusercontent.com/10209536/120765377-bb44cf00-c54b-11eb-9c26-bd3c7f102919.png)
+- [HueFilter](./src/filters/hue/HueFilter.ts) - [色相(Hue)濾鏡](https://zh.wikipedia.org/wiki/%E8%89%B2%E7%9B%B8)
+![image](https://user-images.githubusercontent.com/10209536/120784511-bd645900-c55e-11eb-894a-e1aac6198cdc.png)
 
 ---
 
