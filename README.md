@@ -5,8 +5,9 @@
 ---
 
 ## 濾鏡清單
-- [VignettingFilter](./src/filters/vignetting/VignettingFilter.ts) - [暈影效果](https://zh.wikipedia.org/wiki/%E6%9A%88%E5%BD%B1)  
+- [VignettingFilter](./src/filters/vignetting/VignettingFilter.ts) - [暈影(Vignetting)濾鏡](https://zh.wikipedia.org/wiki/%E6%9A%88%E5%BD%B1)  
 ![image](https://user-images.githubusercontent.com/10209536/120627972-c4c02f80-c496-11eb-8ea7-7be5a77443b9.png)
+- [SaturationFilter](./src/filters/saturation/SaturationFilter.ts) - [飽和度(Saturation)濾鏡](https://zh.wikipedia.org/wiki/%E8%89%B2%E5%BA%A6_(%E8%89%B2%E5%BD%A9%E5%AD%A6))
 
 ---
 

@@ -1,5 +1,5 @@
 /**
- * 暈影濾鏡
+ * 暈影(Vignetting)濾鏡
  */
 class VignettingFilter {
     public static async applyFilter(target: egret.DisplayObject) {

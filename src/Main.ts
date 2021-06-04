@@ -148,7 +148,7 @@ class Main extends eui.UILayer {
         this.textfield = textfield;
 
         //#region shader, 逐一開啟想要測試的部分即可
-        this.vignettingFilterTest(sky);
+        this.shaderTest(sky);
         //#endregion
     }
     /**
@@ -243,6 +243,12 @@ class Main extends eui.UILayer {
                 }
             });
         });
+    }
+
+    async shaderTest(target: egret.DisplayObject) {
+        // this.vignettingFilterTest(target);
+
+        SaturationFilterDebug.link(new SaturationFilter(), target);
     }
     //#endregion
 }
